@@ -17,4 +17,4 @@ Based on: https://finseckto.com/tuto2me/?tuto=Windows-10-remove-bloatware.php
 
 1) Download the script: WinCleanSeckTo.ps1
 
-2) Execute on a Batch/CMD prompt (As Admnistrator): **powershell -ExecutionPolicy Bypass -File WinCleanSeckTo.ps1**
+2) Execute on a Batch/CMD prompt (As Admnistrator): `powershell -ExecutionPolicy Bypass -File WinCleanSeckTo.ps1`
